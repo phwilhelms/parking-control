@@ -3,7 +3,6 @@ package com.api.parkingcontrol.controllers;
 import com.api.parkingcontrol.dtos.ParkingSpotDto;
 import com.api.parkingcontrol.models.ParkingSpotModel;
 import com.api.parkingcontrol.services.ParkingSpotService;
-import com.fasterxml.jackson.databind.util.BeanUtil;
 import org.springframework.beans.BeanUtils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
